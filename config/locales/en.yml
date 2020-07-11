@@ -192,8 +192,8 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  d-meeting: D-Meeting
-  d-meeting_exception: Oops, there was an error when starting the meeting!
+  bigbluebutton: D-Meeting
+  bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
     cookie_info: Cookies help us deliver our services. By using our services, you agree to our use of cookies.
@@ -210,7 +210,7 @@ en:
   email_sent: Your %{email_type} email has been sent! (Please check your Spam folder if you haven't received it)
   enter_your_name: Enter your name!
   errors:
-    d-meeting:
+    bigbluebutton:
       help: Please make sure the proper steps have been taken. <a href="%{doc_link}">Learn more</a>
       message: Invalid D-Meeting Endpoint and Secret
       title: Server Error
@@ -269,7 +269,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  d-meeting: D-Meeting
+  bigbluebutton: D-Meeting
   header:
     all_recordings: All Recordings
     dropdown:
